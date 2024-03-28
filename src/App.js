@@ -1,5 +1,5 @@
-import Game from "./game.jsx"
-import "./App.css"
+import Game from "./Game.jsx"
+import "./App.css";
 import { useState } from "react";
 import Result from "./Result.jsx";
 
